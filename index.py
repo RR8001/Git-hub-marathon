@@ -7,3 +7,4 @@ elif gender == "female":
     print("Hello girl :)")
 else:
     print("enter valid answer")
+print("thanks for visting")    
