@@ -1,0 +1,1 @@
+print("so much mahangai is  there in this world")
